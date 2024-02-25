@@ -1,0 +1,1 @@
+{"name":"Local: leet","url":"d:\\Project intern\\babbar all topics\\leet.cpp","tests":[{"id":1708832873570,"input":"India: 3\nAustralia: 31\nEngland: 44\nIndia: 122","output":"India,3\nAustralia,31\nEngland,44\nIndia,122\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Project intern\\babbar all topics\\leet.cpp","group":"local","local":true}
