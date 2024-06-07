@@ -1,0 +1,1 @@
+{"name":"Local: contest","url":"d:\\Project intern\\babbar all topics\\contest.cpp","tests":[{"id":1711248939212,"input":"bcbbbcba","output":"4"},{"id":1711249303241,"input":"aaaa","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Project intern\\babbar all topics\\contest.cpp","group":"local","local":true}
